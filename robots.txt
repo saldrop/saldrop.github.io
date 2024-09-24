@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://saldrop.github.io/sitemap.html.gz
+Sitemap: https://saldrop.github.io/app/sitemap.html.gz
+Sitemap: https://saldrop.github.io/assets/sitemap.html.gz
+Sitemap: https://saldrop.github.io/css/sitemap.html.gz
+Sitemap: https://saldrop.github.io/data/sitemap.html.gz
+Sitemap: https://saldrop.github.io/includes/sitemap.html.gz
+Sitemap: https://saldrop.github.io/item/sitemap.html.gz
+Sitemap: https://saldrop.github.io/src/sitemap.html.gz
